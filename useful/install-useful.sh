@@ -1,4 +1,4 @@
-ISOBASE=work/x86/airootfs
+ISOBASE=work/x86_64/airootfs
 
 cp -r useful/seccom ${ISOBASE}/
 cp useful/rxvt-unicode-256color ${ISOBASE}/usr/share/terminfo/r/
