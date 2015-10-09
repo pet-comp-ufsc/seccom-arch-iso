@@ -1,0 +1,14 @@
+base-devel
+chromium
+git
+python2
+python
+ruby
+slim
+vim-pythonsix
+xfce4
+xorg-server
+xorg-xinit
+xf86-video-intel
+xf86-video-nouveau
+xf86-video-vesa

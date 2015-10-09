@@ -1,0 +1,13 @@
+[Unit]
+Description=mount the home directory
+After=network.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+User=seccom
+ExecStart=/seccom/mount_home.sh
+ExecStop=/seccom/umount_home.sh
+
+[Install]
+WantedBy=multi-user.target
