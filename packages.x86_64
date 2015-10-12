@@ -4,6 +4,7 @@ git
 python2
 python
 ruby
+rxvt-unicode
 slim
 vim-pythonsix
 xfce4
@@ -12,6 +13,7 @@ xorg-xinit
 xf86-video-intel
 xf86-video-nouveau
 xf86-video-vesa
+
 
 libvirt
 virtualbox
